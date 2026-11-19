@@ -23,7 +23,7 @@ runs it with the model you choose, and keeps a record of what happened.
 
 ```sh
 curl -LsSf https://nika.sh/install.sh | sh   # macOS and Linux
-brew install nika-open/tap/nika               # Homebrew
+brew install nika-open/tap/nika              # Homebrew
 ```
 
 ## A first workflow
