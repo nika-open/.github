@@ -45,6 +45,11 @@ and the permits. Remove the `net` line and the check refuses the file, because `
 reach a host the file never declared. `nika run use-a-tool.nika` runs it and records a trace in
 `.nika/traces/`.
 
+The language has 4 verbs, 18 providers, 30 builtin tools. `infer` asks a model from one of those
+providers, `exec` runs a program, `invoke` calls a tool, and `agent` lets a model work in a loop.
+The specification's [`canon.yaml`](https://github.com/nika-open/nika-spec/blob/main/canon.yaml)
+holds these counts.
+
 ## Repositories
 
 | Repository | What it is |
