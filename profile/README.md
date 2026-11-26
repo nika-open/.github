@@ -5,8 +5,8 @@
       <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-light.png?v=2870c7b49bcc">
       <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-dark.webp?v=be751f014251">
       <source type="image/webp" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-light.webp?v=f3798b791a97">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-dark.gif?v=65152e64116b">
-      <img src="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-light.gif?v=6b1c1a314e76" alt="Nika. Say it once. Keep it as a file. A request to an assistant becomes the file social-repurpose.nika; nika check inspects it before anything runs, nika run carries out its five steps in three waves, and nika trace verify confirms the record of the run." width="100%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-dark.gif?v=f29aa99df4bc">
+      <img src="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-light.gif?v=13dcae797ce2" alt="Nika. Say it once. Keep it as a file. A request to an assistant becomes the file social-repurpose.nika; nika check inspects it before anything runs, nika run carries out its five steps in three waves, and nika trace verify confirms the record of the run." width="100%">
     </picture>
   </a>
 </p>
@@ -29,8 +29,10 @@ with the model you choose, and keeps a record you can verify.
     <picture>
       <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-dark.png?v=a902acbdbf87">
       <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-light.png?v=05e5016a63bc">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-dark.gif?v=807ca7c3c4ea">
-      <img src="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-light.gif?v=68c2a12ab8c7" alt="The four moves of a Nika workflow. Say it: nika compile hello hello.nika. Check it: nika check hello.nika. Run it: nika run hello.nika. Prove it: nika trace verify." width="100%">
+      <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-dark.webp?v=7b9d488d638d">
+      <source type="image/webp" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-light.webp?v=32b71a46d5d5">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-dark.gif?v=0b643240acde">
+      <img src="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-light.gif?v=5397c9ff64fd" alt="The four moves of a Nika workflow. Say it: nika compile hello hello.nika. Check it: nika check hello.nika. Run it: nika run hello.nika. Prove it: nika trace verify." width="100%">
     </picture>
   </a>
 </p>
