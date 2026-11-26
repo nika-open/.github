@@ -1,6 +1,12 @@
 <p align="center">
   <a href="https://nika.sh">
     <picture>
+      <source media="(max-width: 600px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-narrow-dark.png?v=a714f1d1658c">
+      <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-narrow-light.png?v=ba7f57188fb7">
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" type="image/webp" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-narrow-dark.webp?v=da9a94548ad4">
+      <source media="(max-width: 600px)" type="image/webp" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-narrow-light.webp?v=59c13e2f0b45">
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-narrow-dark.gif?v=fd04f29d7e81">
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-narrow-light.gif?v=9aa2f2569d16">
       <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-dark.png?v=62f31fd68dd2">
       <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-light.png?v=2870c7b49bcc">
       <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/hero-dark.webp?v=be751f014251">
@@ -27,6 +33,12 @@ with the model you choose, and keeps a record you can verify.
 <p align="center">
   <a href="https://github.com/nika-open/nika#see-it-in-four-steps">
     <picture>
+      <source media="(max-width: 600px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-narrow-dark.png?v=e994e6fcd5ea">
+      <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-narrow-light.png?v=49a384329841">
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" type="image/webp" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-narrow-dark.webp?v=2cf99fc316f6">
+      <source media="(max-width: 600px)" type="image/webp" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-narrow-light.webp?v=46a6810b33fa">
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-narrow-dark.gif?v=f490841b4e9e">
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-narrow-light.gif?v=f843bbbe9d6f">
       <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-dark.png?v=a902acbdbf87">
       <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-light.png?v=05e5016a63bc">
       <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/steps-dark.webp?v=7b9d488d638d">
@@ -81,6 +93,8 @@ holds these counts.
 
 <p align="center">
   <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/family-narrow-dark.png?v=753d8c9cc4c7">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/family-narrow-light.png?v=94fbd7510837">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/family-dark.png?v=4cfc8ec611de">
     <img src="https://raw.githubusercontent.com/nika-open/.github/main/profile/assets/family-light.png?v=dfedffa46450" alt="The repositories of Nika. The language and its engine: nika-spec and nika. From the tools you already use: nika-plugins, nika-vscode, nika-client and gh-nika. On every pull request, and beyond: nika-action, nika-actions-starter, nika-registry, homebrew-tap, nika-estate and nika-docs." width="100%">
   </picture>
